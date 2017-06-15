@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+
+  Created by Alexandr Khmelevsky on 20.01.17.
+  Copyright © 2016 Alexandr Khmelevsky. All rights reserved.
+*/
+
+
+
+"location_denied_alert_title" = "Title";
+"location_denied_alert_message" = "Message";
+"button_ok" = "Ok";
+"button_settings" = "Settings";
